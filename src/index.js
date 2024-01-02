@@ -15,7 +15,7 @@ connectDB()
   });
 
 dotenv.config({
-  path: "./env",
+  path: "./.env",
 });
 
 // we use iffi
